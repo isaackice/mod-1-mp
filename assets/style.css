@@ -1,0 +1,30 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    color: white;
+    background-color: red;
+    position: fixed;
+    top: 0px;
+}
+
+li{
+    display: inline;
+}
+
+.card{
+    background-color: aquamarine;
+}
+
+#about-me{
+    background-color: azure;
+}
+
+#contact-me{
+    background-color: antiquewhite;
+}
+
+#form1{
+    background-color: antiquewhite;
+}
